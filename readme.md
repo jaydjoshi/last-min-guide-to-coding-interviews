@@ -18,6 +18,16 @@ Hashmap
 ----------
 1. https://leetcode.com/problems/kth-missing-positive-number
 
+Random Index
+------------
+Use 
+```
+Random random = new Random();
+int randomIndex = ramdom.nextInt(list.size());
+```
+1. https://leetcode.com/problems/random-pick-index
+
+
 Heap
 ----
 1. https://leetcode.com/problems/k-closest-points-to-origin
