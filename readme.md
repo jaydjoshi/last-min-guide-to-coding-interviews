@@ -17,3 +17,7 @@ Prefix Sum with Hashmap
 Hashmap
 ----------
 1. https://leetcode.com/problems/kth-missing-positive-number
+
+Heap
+----
+1. https://leetcode.com/problems/k-closest-points-to-origin
