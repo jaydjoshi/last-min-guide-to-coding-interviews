@@ -26,6 +26,7 @@ Random random = new Random();
 int randomIndex = ramdom.nextInt(list.size());
 ```
 1. https://leetcode.com/problems/random-pick-index
+2. https://leetcode.com/problems/random-pick-with-weight ( calculate prefx sum and apply Random on it and search using binary search)
 
 
 Heap
