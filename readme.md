@@ -29,10 +29,23 @@ int randomIndex = ramdom.nextInt(list.size());
 1. https://leetcode.com/problems/random-pick-index
 2. https://leetcode.com/problems/random-pick-with-weight ( calculate prefx sum and apply Random on it and search using binary search)
 
-
 Heap
 ----
 1. https://leetcode.com/problems/k-closest-points-to-origin
+
+Sliding window
+--------------
+1. https://leetcode.com/problems/max-consecutive-ones-iii
+
+Next Permutation
+----------------
+Algo:
+- Traverse from right to left and get first pivot where nums[i] < nums[i+1]. If not pivot exist return -1.
+- If pivot != -1
+  - Treverse right to left and get index of first greater element than pivot. (This will always exists)
+  - Swap pivot and first greater element
+- reverse array from pivot + 1 to end.
+1. https://leetcode.com/problems/next-permutation
 
 Binary Search
 -------------
