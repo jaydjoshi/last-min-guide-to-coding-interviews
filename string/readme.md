@@ -4,6 +4,7 @@ String
 Two pointer
 ----------
 1. https://leetcode.com/problems/valid-palindrome-ii/
+2. https://leetcode.com/problems/valid-word-abbreviation/
 
 Hashmap
 -------
