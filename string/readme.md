@@ -10,3 +10,7 @@ Hashmap
 -------
 1. https://leetcode.com/problems/valid-palindrome
 2. https://leetcode.com/problems/palindrome-permutation/
+
+Stack
+-----
+1. https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
