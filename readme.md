@@ -51,3 +51,7 @@ Algo:
 Binary Search
 -------------
 1. https://leetcode.com/problems/kth-missing-positive-number
+2. https://leetcode.com/problems/find-peak-element
+3. https://leetcode.com/problems/cutting-ribbons
+4. https://leetcode.com/problems/capacity-to-ship-packages-within-d-days
+5. https://leetcode.com/problems/random-pick-with-weight
