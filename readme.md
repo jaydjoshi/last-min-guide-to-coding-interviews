@@ -32,3 +32,7 @@ int randomIndex = ramdom.nextInt(list.size());
 Heap
 ----
 1. https://leetcode.com/problems/k-closest-points-to-origin
+
+Binary Search
+-------------
+1. https://leetcode.com/problems/kth-missing-positive-number
