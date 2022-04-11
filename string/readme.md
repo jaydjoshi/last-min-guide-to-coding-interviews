@@ -22,7 +22,11 @@ BFS
 ---
 1. https://leetcode.com/problems/remove-invalid-parentheses/
 
-Others
+Math
 ------
 1. https://leetcode.com/problems/valid-number
-2. https://leetcode.com/problems/add-bold-tag-in-string (String matching)
+2. https://leetcode.com/problems/add-strings
+
+Others
+------
+1. https://leetcode.com/problems/add-bold-tag-in-string (String matching)
