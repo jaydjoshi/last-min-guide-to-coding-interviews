@@ -11,3 +11,4 @@ NOTE : Whenever there is level order traversal think about BFS first.
 DFS
 ---
 1. https://leetcode.com/problems/range-sum-of-bst
+2. https://leetcode.com/problems/diameter-of-binary-tree
