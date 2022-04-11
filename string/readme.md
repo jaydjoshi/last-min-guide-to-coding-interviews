@@ -18,9 +18,10 @@ Stack
 -----
 1. https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 
-BFS
+Backtracking
 ---
-1. https://leetcode.com/problems/remove-invalid-parentheses/
+1. https://leetcode.com/problems/remove-invalid-parentheses/ (BFS)
+2. https://leetcode.com/problems/expression-add-operators/ (DFS)
 
 Math
 ------
