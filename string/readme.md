@@ -18,6 +18,10 @@ Stack
 -----
 1. https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 
+BFS
+---
+1. https://leetcode.com/problems/remove-invalid-parentheses/
+
 Others
 ------
 1. https://leetcode.com/problems/valid-number
