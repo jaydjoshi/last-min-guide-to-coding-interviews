@@ -20,3 +20,7 @@ DFS
 Stack
 -----
 1. https://leetcode.com/problems/binary-search-tree-iterator
+
+Binary Search
+-------------
+1. https://leetcode.com/problems/closest-binary-search-tree-value
