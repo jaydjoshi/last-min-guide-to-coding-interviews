@@ -13,10 +13,13 @@ NOTE : Whenever there is level order traversal think about BFS first.
 DFS
 ---
 1. https://leetcode.com/problems/range-sum-of-bst
-2. https://leetcode.com/problems/diameter-of-binary-tree
-3. https://leetcode.com/problems/sum-root-to-leaf-numbers
+2. https://leetcode.com/problems/sum-root-to-leaf-numbers
+3. https://leetcode.com/problems/diameter-of-binary-tree
 4. https://leetcode.com/problems/balance-a-binary-search-tree ( Divide and Conquer)
 5. https://leetcode.com/problems/construct-binary-tree-from-string
+
+**Inorder**
+1. https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/
 
 Stack
 -----
