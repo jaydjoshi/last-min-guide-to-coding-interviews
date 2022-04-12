@@ -15,6 +15,7 @@ DFS
 1. https://leetcode.com/problems/range-sum-of-bst
 2. https://leetcode.com/problems/diameter-of-binary-tree
 3. https://leetcode.com/problems/sum-root-to-leaf-numbers
+4. https://leetcode.com/problems/balance-a-binary-search-tree ( Divide and Conquer)
 
 Stack
 -----
