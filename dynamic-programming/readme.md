@@ -93,6 +93,15 @@ Trick - expand palindrome for O(1) time
 2. https://leetcode.com/problems/palindromic-substrings/
 3. https://leetcode.com/problems/longest-palindromic-subsequence/
 
+Matrix Chain Multiplication
+---------------------------
+1. MCM
+2. Print MCM
+3. Evaluate expression to boolean paranthesis
+4. Min/ Max value of expression
+5. Palindrome partitioning
+6. Scramble string
+7. Egg drop problem
 
 **Note :** 
 For 2D patterns, and bottom up approach, top left corner is the target.
