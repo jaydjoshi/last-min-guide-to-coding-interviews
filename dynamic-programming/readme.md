@@ -59,7 +59,8 @@ if(text1.charAt(m-1) == text2.charAt(n-1)){
 4. https://www.geeksforgeeks.org/given-two-strings-find-first-string-subsequence-second/ ( DP is not optimal choice for this)
 5. https://www.geeksforgeeks.org/find-length-longest-subsequence-one-string-substring-another-string/ (pending)
 6. https://leetcode.com/discuss/general-discussion/1276555/find-number-of-times-a-string-occurs-as-a-subsequence-in-given-string (pending)
-7. https://leetcode.com/problems/number-of-matching-subsequences/ (pending)
+7. https://leetcode.com/problems/edit-distance/
+8. https://leetcode.com/problems/distinct-subsequences/
 
 **Substring**
 1. https://leetcode.com/discuss/interview-question/1273766/longest-common-substring
@@ -83,9 +84,7 @@ https://www.geeksforgeeks.org/longest-common-substring-dp-29/
 5. https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
 
 **Increasing subsequence**
-1. https://leetcode.com/problems/longest-increasing-subsequence/ (pending)
-2. https://leetcode.com/problems/edit-distance/ (pending)
-3. https://leetcode.com/problems/distinct-subsequences/ (pending)
+1. https://leetcode.com/problems/longest-increasing-subsequence/ 
 
 Palindrome
 ----------
