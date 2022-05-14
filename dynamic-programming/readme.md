@@ -95,13 +95,12 @@ Trick - expand palindrome for O(1) time
 
 Matrix Chain Multiplication
 ---------------------------
-1. MCM
-2. Print MCM
-3. Evaluate expression to boolean paranthesis
-4. Min/ Max value of expression
-5. Palindrome partitioning
-6. Scramble string
-7. Egg drop problem
+1. MCM : https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/
+2. Evaluate expression to boolean paranthesis : https://www.geeksforgeeks.org/boolean-parenthesization-problem-dp-37/
+3. Min/ Max value of expression : https://leetcode.com/discuss/general-discussion/1281494/minimum-and-maximum-values-of-an-expression-with-and
+4. Palindrome partitioning : https://leetcode.com/problems/palindrome-partitioning-ii/
+5. Scramble string : https://leetcode.com/problems/scramble-string/
+6. Egg drop problem : https://leetcode.com/problems/super-egg-drop/
 
 **Note :** 
 For 2D patterns, and bottom up approach, top left corner is the target.
