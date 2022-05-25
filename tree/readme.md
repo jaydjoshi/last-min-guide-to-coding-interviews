@@ -17,6 +17,7 @@ DFS
 3. https://leetcode.com/problems/diameter-of-binary-tree
 4. https://leetcode.com/problems/balance-a-binary-search-tree ( Divide and Conquer)
 5. https://leetcode.com/problems/construct-binary-tree-from-string
+6. https://leetcode.com/problems/find-leaves-of-binary-tree/
 
 **Inorder**
 1. https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/

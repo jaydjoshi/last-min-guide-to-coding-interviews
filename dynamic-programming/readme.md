@@ -102,6 +102,13 @@ Matrix Chain Multiplication
 5. Scramble string : https://leetcode.com/problems/scramble-string/
 6. Egg drop problem : https://leetcode.com/problems/super-egg-drop/
 
+Kadanes
+-------
+1. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+2. https://leetcode.com/problems/best-sightseeing-pair/
+3. https://leetcode.com/problems/minimum-falling-path-sum/
+4. https://leetcode.com/problems/maximum-number-of-points-with-cost/
+
 **Note :** 
 For 2D patterns, and bottom up approach, top left corner is the target.
 
